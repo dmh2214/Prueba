@@ -13,5 +13,5 @@ def sentence(s):
     mylist =[(m[i], len(m[i])) for i in range(0,len(m))] 
     print(mylist)
 # Define the variable s as a string variable and run function sentence() to get solution     
-s=('Mexico is a beautiful country') 
+s=('Mexico is a great country') 
 sentence(s)
